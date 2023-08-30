@@ -1,2 +1,3 @@
 # StarkNFT
-Stark NFT mint
+-npm i 
+-node mint.js
